@@ -34,4 +34,4 @@
 [website]: https://dimitri.franov.ch
 [twitter]: https://twitter.com/dimitrifranov
 [instagram]: https://instagram.com/dimitri.franov
-[linkedin]: https://linkedin.com/in/dimitri-franov
+[linkedin]: https://www.linkedin.com/in/dimitri-franov-73180b184/
