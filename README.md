@@ -1,6 +1,6 @@
 ### Hello, I'm Dimitri Franov 👋
 
-[![Website](https://img.shields.io/website?label=dimitri.franov.ch&style=for-the-badge&url=https%3A%2F%2Fdimitri.franov.ch)](https://dimitri.franov.ch)
+<!-- [![Website](https://img.shields.io/website?label=dimitri.franov.ch&style=for-the-badge&url=https%3A%2F%2Fdimitri.franov.ch)](https://dimitri.franov.ch) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/dimitrifranov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdimitrifranov&screen_name=dimitrifranov)
 
 - I'm currently finishing my Matura at the Gymnasium Liestal
